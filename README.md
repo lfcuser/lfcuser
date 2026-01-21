@@ -1,47 +1,18 @@
 ## Hi there 👋
 
 - 💻 I’m Backend Developer
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning golang and clang
 - ⚡ Fun fact: The oldest and strongest technology is Natural Intelligence (NI). This technology has shown outstanding results in learning and problem-solving throughout all of history. Everyone possesses it. NI is lazy. It created artificial intelligence (AI) to delegate work and do nothing. When NI does nothing, it quickly becomes stupid.
 
 ## 📊 GitHub Statistics
-
-### 🔥 Overall Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcuser&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-
----
-
-### 📈 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=lfcuser&theme=dark)
-
----
 
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfcuser&layout=compact&theme=dark)
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=lfcuser&theme=darkhub&row=1&column=7)
-
----
-
 ### 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=lfcuser&color=blue&style=flat)
-
----
-
-## 📌 Featured Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
-
----
-
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/lfcuser/lfcuser/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
