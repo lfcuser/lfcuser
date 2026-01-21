@@ -7,7 +7,7 @@
 ## 📊 GitHub Statistics
 
 ### 🔥 Overall Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?lfcuser=lfcuser&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcuser&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
 ---
 
@@ -17,25 +17,25 @@
 ---
 
 ### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lfcuser=lfcuser&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfcuser&layout=compact&theme=dark)
 
 ---
 
 ### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?lfcuser=lfcuser&theme=darkhub&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=lfcuser&theme=darkhub&row=1&column=7)
 
 ---
 
 ### 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?lfcuser=lfcuser&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=lfcuser&color=blue&style=flat)
 
 ---
 
 ## 📌 Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?lfcuser=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?lfcuser=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
 
 ---
 
