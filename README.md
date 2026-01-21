@@ -1,16 +1,69 @@
 ## Hi there 👋
 
-<!--
-**lfcuser/lfcuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m Backend Developer
+- 🌱 I’m currently learning golang
+- ⚡ Fun fact: The oldest and strongest technology is Natural Intelligence (NI). This technology has shown outstanding results in learning and problem-solving throughout all of history. Everyone possesses it. NI is lazy. It created artificial intelligence (AI) to delegate work and do nothing. When NI does nothing, it quickly becomes stupid.
 
-Here are some ideas to get you started:
+## 📊 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Overall Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?lfcuser=lfcuser&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+
+---
+
+### 📈 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=lfcuser&theme=dark)
+
+---
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lfcuser=lfcuser&layout=compact&theme=dark)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?lfcuser=lfcuser&theme=darkhub&row=1&column=7)
+
+---
+
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?lfcuser=lfcuser&color=blue&style=flat)
+
+---
+
+## 📌 Featured Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?lfcuser=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?lfcuser=lfcuser&repo=REPO_NAME&theme=dark)](https://github.com/lfcuser/REPO_NAME)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/lfcuser/lfcuser/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-7--12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
+
+### Databases & Queues
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
