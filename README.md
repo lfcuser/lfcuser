@@ -6,7 +6,6 @@
 
 ## 📊 GitHub Statistics
 
-### 🧠 Top Languages
 ![](https://github-readme-stats.vercel.app/api?username=lfcuser&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfcuser&layout=compact&theme=dark)
 
