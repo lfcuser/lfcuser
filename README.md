@@ -4,12 +4,6 @@
 - 🌱 I’m currently learning golang and clang
 - ⚡ Fun fact: The oldest and strongest technology is Natural Intelligence (NI). This technology has shown outstanding results in learning and problem-solving throughout all of history. Everyone possesses it. NI is lazy. It created artificial intelligence (AI) to delegate work and do nothing. When NI does nothing, it quickly becomes stupid.
 
-## 📊 GitHub Statistics
-
-![Top Langs](https://github.com/anuraghazra/github-readme-stats/blob/master/api/top-langs.js?username=lfcuser&layout=compact&theme=dark)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
