@@ -6,12 +6,7 @@
 
 ## 📊 GitHub Statistics
 
-![Top Langs](https://github.com/lfcuser/github-readme-stats/api/top-langs/?username=lfcuser&layout=compact&theme=dark)
-
----
-
-### 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=lfcuser&color=blue&style=flat)
+![Top Langs](https://github.com/anuraghazra/github-readme-stats/blob/master/api/top-langs.js?username=lfcuser&layout=compact&theme=dark)
 
 ---
 
