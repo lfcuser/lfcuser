@@ -3,8 +3,8 @@
 - 💻 I’m Backend Developer
 - ☕ Powered by coffee
 - 🧩 Problem solving
-- 🔍 Open to new job opportunities
 - 🐛 Debugging included
+- 🔍 Open to new job opportunities
 - 📍 Remote
 - 🌍 Worldwide
 - 📄 Contract
