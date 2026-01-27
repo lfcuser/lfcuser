@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 - 💻 I’m Backend Developer
-- 🌱 I’m currently learning golang
-- ⚡ Fun fact: The oldest and strongest technology is Natural Intelligence (NI). This technology has shown outstanding results in learning and problem-solving throughout all of history. Everyone possesses it. NI is lazy. It created artificial intelligence (AI) to delegate work and do nothing. When NI does nothing, it quickly becomes stupid.
+- ☕ Powered by coffee
+- 🧩 Problem solving
+- 🔍 Open to new job opportunities
+- 🐛 Debugging included
+- 📍 Remote
+- 🌍 Worldwide
+- 📄 Contract
+- 🕒 Flexible schedule
 
 ## 🛠️ Tech Stack
 
