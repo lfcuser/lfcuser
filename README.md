@@ -1,20 +1,14 @@
 ## Hi there 👋
 
-- ☕ Powered by coffee
-- 🧩 Problem solving
-- 🐛 Debugging included
-- 🔍 Open to new job opportunities
-- 📍 Remote
-- 🌍 Worldwide
-- 📄 Contract
-- 🕒 Flexible schedule
+Software Engineer
 
 ## 🛠️ Tech Stack
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Databases & Queues
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
